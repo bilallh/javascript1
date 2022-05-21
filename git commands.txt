@@ -1,0 +1,21 @@
+git clone url ( for cloning new branch)
+
+
+git status( checking status)
+
+git init( initilaize repo)
+
+git status( checking status of initialized repo)
+git add .  ( adding files to git)
+git status( checkiing status)
+git commit -m "anything")
+ git branch   ( showing branches)
+git branch name ( to create new branch)
+git switch name of the branch( to chnage current branch to another one)
+
+ git push    ( push code)
+git push -u origin (branch)
+
+
+
+
